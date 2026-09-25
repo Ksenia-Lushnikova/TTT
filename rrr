@@ -3,3 +3,4 @@ n = 5
 m = "ШВОВв"
 r = 4
 print(r+n)
+cjunt = 3
