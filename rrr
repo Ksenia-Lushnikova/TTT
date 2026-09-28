@@ -5,3 +5,4 @@ r = 4
 print(r+n)
 cjunt = 3
 print('привет')
+print('привет')
