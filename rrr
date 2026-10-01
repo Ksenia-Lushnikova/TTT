@@ -8,3 +8,4 @@ print('привет')
 print('привет')
 print('привет')
 t = 8
+count = 7
