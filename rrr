@@ -12,3 +12,4 @@ count = 7
 pp = ''
 ry = 90
 rtu = 50
+er = ry + rtu
