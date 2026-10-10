@@ -15,3 +15,4 @@ rtu = 50
 er = ry + rtu
 print(er)
 ty = 67
+print('привет')
