@@ -16,3 +16,4 @@ er = ry + rtu
 print(er)
 ty = 67
 print('привет')
+odp = 'idwjd'
