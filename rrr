@@ -18,3 +18,4 @@ ty = 67
 print('привет')
 odp = 'idwjd'
 print(ry)
+print(odp)
