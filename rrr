@@ -21,3 +21,4 @@ print(ry)
 print(odp)
 for i in range(10):
   print(i+i)
+print('k')
