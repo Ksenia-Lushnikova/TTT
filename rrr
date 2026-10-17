@@ -1,1 +1,25 @@
 print("Привет")
+n = 5
+m = "ШВОВв"
+r = 4
+print(r+n)
+cjunt = 3
+print('привет')
+print('привет')
+print('привет')
+t = 8
+count = 7
+pp = ''
+ry = 90
+rtu = 50
+er = ry + rtu
+print(er)
+ty = 67
+print('привет')
+odp = 'idwjd'
+print(ry)
+print(odp)
+for i in range(10):
+  print(i+i)
+print('k')
+print('t')
