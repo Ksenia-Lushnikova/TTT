@@ -26,3 +26,4 @@ print('t')
 class Cfts:
   pass
 print(cjunt + ty)
+print(cjunt + ty)
