@@ -23,8 +23,11 @@ for i in range(10):
   print(i+i)
 print('k')
 print('t')
-class Cfts:
-  pass
+class Foxes:
+  def __init__(self, name, specie, size):
+    self.name = name
+    self.specie = specie
+    self.size = size
 print(cjunt + ty)
 print(cjunt + ty)
 dhgi = 6879
