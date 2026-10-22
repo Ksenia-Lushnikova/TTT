@@ -33,3 +33,4 @@ print(cjunt + ty)
 dhgi = 6879
 rfszc = 'dis'
 ty = 68
+print('привет')
