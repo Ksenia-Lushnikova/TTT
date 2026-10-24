@@ -35,3 +35,4 @@ rfszc = 'dis'
 ty = 68
 print('привет')
 print('привет')
+ty = 68
