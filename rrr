@@ -39,3 +39,4 @@ ty = 68
 print('привет')
 rfszc = 'dis'
 rfszc = 'dis'
+print(cjunt + ty)
