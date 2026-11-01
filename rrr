@@ -41,3 +41,4 @@ rfszc = 'dis'
 rfszc = 'dis'
 print(cjunt + ty)
 dhgi = 6879
+print('привет')
