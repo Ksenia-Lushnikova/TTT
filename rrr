@@ -45,3 +45,4 @@ print('привет')
 t = 8
 rfszc = 'dis'
 print(ry)
+cjunt = 3
