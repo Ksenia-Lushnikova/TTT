@@ -50,3 +50,4 @@ print(ry)
 print('k')
 cjunt = 6
 er = ry + rtu * 3
+cjunt = 3
