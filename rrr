@@ -53,3 +53,4 @@ er = ry + rtu * 3
 cjunt = 7
 print('привет')
 t = 8
+m = "ШВОВв"
