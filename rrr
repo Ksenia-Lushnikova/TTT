@@ -56,3 +56,4 @@ t = 8
 m = "ШВОВв"
 ty = 70
 odp = 'idwjd'
+print(odp)
