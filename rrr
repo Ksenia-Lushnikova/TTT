@@ -60,3 +60,4 @@ print(odp)
 ty = 68
 m = "ШВОВв"
 print(ry)
+rtu = 50
